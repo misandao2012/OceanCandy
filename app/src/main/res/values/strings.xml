@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OceanCandy</string>
+    <string name="low_tides">Low Tides:</string>
+    <string name="high_tides">High Tides:</string>
+    <string name="time">Time:</string>
+    <string name="feet">Feet:</string>
+    <string name="network_titile">Network</string>
+    <string name="network_message">Check the internet connection, and try again.</string>
+</resources>
